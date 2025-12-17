@@ -1,21 +1,75 @@
-<h1 align="center">Hi 👋, I'm Erfan Khadiv</h1>
-<h3 align="center">A dedicated Computer Engineering Student</h3>
+# 👋 Hi, I’m Erfan Khadiv
 
-- 🌱 I’m currently learning **Full-Stack Development**
+🎯 **Front-End Developer | React Enthusiast | Future AI Engineer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ErfanKhadiv?tab=repositories](https://github.com/ErfanKhadiv?tab=repositories)
+I’m a passionate developer focused on building clean, responsive, and real-world web applications.  
+I enjoy turning ideas into functional products and continuously improving my skills through hands-on projects.
 
-- 📫 How to reach me **erfankhadiv1383@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erfan khadiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfan khadiv" height="30" width="40" /></a>
-<a href="https://instagram.com/erfan.kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erfan.kh" height="30" width="40" /></a>
-</p>
+## 🧠 Tech Stack & Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Front-End
+- ⚛️ **React**
+- 🟨 **JavaScript (ES6+)**
+- 🎨 **HTML5 & CSS3**
+- 🧭 React Router
+- ⚡ Vite
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erfankhadiv&show_icons=true&locale=en&layout=compact" alt="erfankhadiv" /></p>
+### Back-End & Databases
+- 🐍 **Python**
+- 🗄️ **PostgreSQL**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erfankhadiv&show_icons=true&locale=en" alt="erfankhadiv" /></p>
+### Tools & Practices
+- Git & GitHub  
+- Component-based architecture  
+- Responsive UI design  
+- Clean & maintainable code  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Project Kouman
+**Front-end E-commerce Style Application**
+
+- Built with **React + Vite**
+- Client-side routing using **React Router**
+- Product listing & product detail pages
+- Cart and login/signup UI
+- Responsive layout
+- UI inspired by a real-world website (educational purpose only)
+
+🔗 **Live Demo:**  
+https://erfankhadiv.github.io/Kouman/
+
+💻 **Source Code:**  
+https://github.com/ErfanKhadiv/Kouman
+
+---
+
+## 📈 What I’m Currently Working On
+- Improving React architecture and best practices
+- Strengthening JavaScript fundamentals
+- Learning backend concepts and databases
+- Preparing for advanced AI & software engineering studies
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** erfankhadiv1383@gmail.com  
+- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/erfan-khadiv-777a66279)  
+- 📸 **Instagram:** [My Instagram ](https://www.instagram.com/erphan.kh?utm_source=qr&igsh=MzNlNGNkZWQ4Mg%3D%3D) 
+
+---
+
+## ⭐ Goals
+- Build impactful real-world applications
+- Grow as a full-stack & AI-focused engineer
+- Contribute to open-source projects
+- Continuously learn and improve
+
+---
+
+> 💡 *“Learning by building is the fastest way to grow.”*

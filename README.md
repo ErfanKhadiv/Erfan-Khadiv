@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Erfan Khadiv
 
-🎯 **Front-End Developer | React Enthusiast | Future AI Engineer**
+🎯 **Computer Eng. Student | Full-Stack Learner | Future AI Engineer**
 
 I’m a passionate developer focused on building clean, responsive, and real-world web applications.  
 I enjoy turning ideas into functional products and continuously improving my skills through hands-on projects.
